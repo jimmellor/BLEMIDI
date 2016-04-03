@@ -1,10 +1,10 @@
 # BLEMIDI
 
-Use an Adafruit Arduino Feather as a BLE MIDI device.
+Use an Adafruit Arduino Feather (or similar) as a BLE MIDI device.
 
 This simple sketch passes data straight through to h/w serial. Use it to bring BLE MIDI to your ancient sythesisers.
 
-## Prerequisites.
+## Prerequisites
 
 ###Hardware
 For the BLE MIDI to 'standard' MIDI requires you build interface hardware similar to this:
